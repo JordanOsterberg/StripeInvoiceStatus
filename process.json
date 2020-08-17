@@ -1,0 +1,5 @@
+{
+    "name": "stripeinvoicestatus",
+    "script": "./index.js",
+    "ignore_watch": ["public", "public/*", "node_modules"]
+  }
